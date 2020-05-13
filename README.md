@@ -8,4 +8,4 @@ django-admin startproject hellodjango\
 python manage.py runserver\
 python manage.py startapp homepage\
 python manage.py createsuperuser\
-python manage.py migrate\
+python manage.py migrate
